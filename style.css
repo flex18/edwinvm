@@ -325,6 +325,13 @@ p {
 	color: white;
 	text-align: left;
 }
+/*color al cta */
+#services .service-top .cta {
+	color: black;
+	margin-bottom: 30px;
+	padding: 10px 20px;
+	font-size: 2rem;
+}
 /* End Services Section */
 
 /* Projects section */
